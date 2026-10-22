@@ -29,7 +29,7 @@ A platform (mobile app and website) that consolidates each member's medical info
 
 ## My Role & Responsibilities
 
-Individual project. I acted as project manager, systems analyst and Product Owner:
+I independently performed systems analysis, business planning, requirements engineering, and Agile project management activities within an academic simulation:
 
 - **System analysis:** defined the business problem, the current and target state, stakeholders and high-level requirements
 - **Business planning:** wrote the project charter and feasibility analysis, and classified the project with the NTCP model
