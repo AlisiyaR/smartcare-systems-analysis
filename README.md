@@ -99,7 +99,7 @@ More screenshots (sprint planning, timeline, a user story with acceptance criter
 ## Project Structure
 
 ```
-smartcare-project-management/
+smartcare-systems-analysis/
 ├── README.md
 ├── docs/
 │   ├── project-initiation.md
